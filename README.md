@@ -8,7 +8,7 @@ HMAC is an algorithm that helps verify the integrity and origin of data
 - NodeJS ([Here](https://nodejs.org/en))
 
 ### Running project
-You can run the project directly at the following path: [here]()
+You can run the project directly at the following path: [here](https://hmac-liart.vercel.app/)
 Or run with source code:
 1. Open cmd (terminal) and navigate to project
 2. Enter to command line (install node_modules folder):
