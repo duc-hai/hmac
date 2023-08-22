@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(204, 204, 204, 0.3);
+}
+
+.error-message {
+    margin: 0px 20px;
+    font-weight: 600;
+    color: red;
+    display: none;
+}
