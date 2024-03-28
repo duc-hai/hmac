@@ -1,14 +1,11 @@
 # HMAC
 
 ### Description
-HMAC is an algorithm that helps verify the integrity and origin of data. The purpose of the topic is to learn the HMAC algorithm as well as the
-selection of suitable hash functions such as MD5, SHA-1, SHA-256 and SHA-3. In
-addition, the topic also analyzes how it works, the advantages and disadvantages, how
-to choose the above hash functions as well as the impact of choosing an unsafe hash
-function.
-The report studied the necessary requirements for the HMAC algorithm and
-commonly used hash functions. The demo programs at the end of the report will
-illustrate this algorithm.
+HMAC is an algorithm that helps verify the integrity and origin of data. 
+
+The purpose of the topic is to learn the HMAC algorithm as well as the selection of suitable hash functions such as MD5, SHA-1, SHA-256 and SHA-3. In addition, the topic also analyzes how it works, the advantages and disadvantages, how to choose the above hash functions as well as the impact of choosing an unsafe hash function.
+
+The report studied the necessary requirements for the HMAC algorithm and commonly used hash functions. The demo programs at the end of the report will illustrate this algorithm.
 
 Web demo: [https://hmac-liart.vercel.app/](https://hmac-liart.vercel.app/)
 
